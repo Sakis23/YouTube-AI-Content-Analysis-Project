@@ -1,9 +1,8 @@
-##Summary
 <img width="1536" height="1024" alt="1000044986" src="https://github.com/user-attachments/assets/c08c6914-94af-4857-9a00-fca1607da29b" />
 # My-new-project
 YouTube AI Content Analysis Project
 # YouTube AI Content Analysis Project
-
+##summary
 ## 1. Your idea in a nutshell
 This project explores how artificial intelligence can be used to analyze YouTube video content and metadata in order to identify patterns related to reach, engagement, and content structure.
 
