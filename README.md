@@ -2,8 +2,7 @@
 # My-new-project
 YouTube AI Content Analysis Project
 # YouTube AI Content Analysis Project
-##summary
-## 1. Your idea in a nutshell
+##summary 1. Your idea in a nutshell
 This project explores how artificial intelligence can be used to analyze YouTube video content and metadata in order to identify patterns related to reach, engagement, and content structure.
 
 The goal is to better understand which characteristics of videos are associated with higher visibility and audience interaction.
